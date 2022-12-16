@@ -1,0 +1,15 @@
+[2022-12-16 22:28:55,569][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /var/folders/vc/ncyx6pz567x9w9jb_lsmyjgm0000gn/T/tmpr9s0856v
+[2022-12-16 22:28:55,569][torch.distributed.nn.jit.instantiator][INFO] - Writing /var/folders/vc/ncyx6pz567x9w9jb_lsmyjgm0000gn/T/tmpr9s0856v/_remote_module_non_scriptable.py
+[2022-12-16 22:28:55,723][lightning][INFO] - successful load initial weights
+[2022-12-16 22:29:10,395][lightning][INFO] - reference : джой хватит
+[2022-12-16 22:29:10,395][lightning][INFO] - prediction: джой хлатит
+[2022-12-16 22:29:20,212][lightning][INFO] - reference : джой надоел
+[2022-12-16 22:29:20,212][lightning][INFO] - prediction: джой на далья
+[2022-12-16 22:32:16,994][lightning][INFO] - reference : афина организуй мне запись к моему парикмахеру на этой неделе
+[2022-12-16 22:32:16,996][lightning][INFO] - prediction: афина оанезу мене задось в моему калекмару на эдо неделе
+[2022-12-16 22:35:27,881][lightning][INFO] - reference : джой скажи а у тебя есть девушка
+[2022-12-16 22:35:27,883][lightning][INFO] - prediction: джой скажи а у тебя есть девушка
+[2022-12-16 22:38:15,593][lightning][INFO] - reference : джой почему у некоторых людей нормальная улыбка а у некоторых очень сильно видны верхние десны
+[2022-12-16 22:38:15,594][lightning][INFO] - prediction: джой кчемунектркудиновеномни в кл невтре хочесинаведнелев мидес
+[2022-12-16 22:41:19,067][lightning][INFO] - reference : сбер здравствуйте сегодня работает банк на гамзатова шестьдесят четыре
+[2022-12-16 22:41:19,067][lightning][INFO] - prediction: сбер спдрастувте сегоде одмотать банк магонзапошеьсто четыре

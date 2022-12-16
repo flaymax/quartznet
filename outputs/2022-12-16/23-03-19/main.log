@@ -1,0 +1,5 @@
+[2022-12-16 23:03:19,556][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /var/folders/vc/ncyx6pz567x9w9jb_lsmyjgm0000gn/T/tmpu1e92jfi
+[2022-12-16 23:03:19,557][torch.distributed.nn.jit.instantiator][INFO] - Writing /var/folders/vc/ncyx6pz567x9w9jb_lsmyjgm0000gn/T/tmpu1e92jfi/_remote_module_non_scriptable.py
+[2022-12-16 23:03:19,709][lightning][INFO] - successful load initial weights
+[2022-12-16 23:03:35,453][lightning][INFO] - reference : джой хватит
+[2022-12-16 23:03:35,453][lightning][INFO] - prediction: джой хлатит
